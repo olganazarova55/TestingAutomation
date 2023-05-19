@@ -1,6 +1,6 @@
-package util;
+package utils;
 
-public CartPage {
+public class CartPage {
   
   // FROM GITHUB
   
